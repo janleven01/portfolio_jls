@@ -3,5 +3,9 @@
 <hr>
 <p></p>
 <h4> Examples:</h4>
-  <p> • To do List </p>
+  <ul>
+    <li>To-do-App</li>
+    <li>Note Taking App</li>
+    <li>Digital Clock</li>
+  </ul>
   
