@@ -7,7 +7,7 @@
     <li>To-do-App</li>
     <li>Note Taking App</li>
     <li>Digital Clock</li>
-    <li>Weather App</li>
+    <a href="https://janleven01.github.io/Weather-App/"><li>Weather App</li></a>
     <li>Rock, Paper, Scissor</li>
   </ul>
 <h3> Level 2: Intermediate</h3>
